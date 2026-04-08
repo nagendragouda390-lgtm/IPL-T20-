@@ -71,6 +71,8 @@ Ishan Kishan scored 2
 🏏 Scorecard - MI
 ---------------------------------------------
 Name        Runs  Balls  4s  6s  SR
+
+
 Rohit Sharma*   45   30   5   2   150.0
 
 ---
